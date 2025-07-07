@@ -6,5 +6,5 @@
  * Time: 12:05
  */
 echo'Hello World 6';
-echo"test5!";
+echo"test6!";
 ?>
